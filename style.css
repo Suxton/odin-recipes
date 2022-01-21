@@ -1,0 +1,22 @@
+body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+
+
+.title {
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(252, 147, 36);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.table {
+    border-radius: 0px 0px 10px 10px;
+    background-color: rgba(187, 175, 159, 0.603);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
